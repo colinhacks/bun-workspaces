@@ -1,0 +1,11 @@
+{
+  "name": "@oven-sh/b",
+  "version": "0.0.1",
+  "module": "index.ts",
+  "type": "module",
+  "dependencies": {
+    "@oven-sh/a": "0.0.1",
+    "bun-types": "latest",
+    "zod": "3"
+  }
+}
